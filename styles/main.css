@@ -60,11 +60,3 @@ span.b
     height: 100px;
 }
 
-span.c 
-{
-    display: inline-block;
-    width: 400px;
-    background-color: #04AA6D;;
-    color: snow;
-    height: 400px;
-}
