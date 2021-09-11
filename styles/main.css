@@ -29,6 +29,13 @@
     color: white;
   }
 
+  .footerstyle 
+{
+    background-color: #04AA6D;
+    color: grey;
+      
+}
+
 .para
 {
     font-size: larger;
@@ -53,9 +60,11 @@ span.b
     height: 100px;
 }
 
-.footerstyle 
+span.c 
 {
-    background-color: #04AA6D;
-    color: grey;
-      
+    display: inline-block;
+    width: 400px;
+    background-color: #04AA6D;;
+    color: snow;
+    height: 400px;
 }
